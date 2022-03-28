@@ -1,4 +1,4 @@
-docker pull node:12.18.1
+From node:12.18.1
  
 WORKDIR /app
  
